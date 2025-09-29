@@ -1,0 +1,10 @@
+[wokwi]
+version = 1
+
+[[parts]]
+id = "esp1" 
+firmware = "ESP_MASTER.ino" 
+
+[[parts]]
+id = "esp2" 
+firmware = "ESP_SLAVE.ino"
