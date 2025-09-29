@@ -1,4 +1,5 @@
 //master code start here
+#include <Arduino.h>
 #include <Wire.h>
 #include <HardwareSerial.h>
 HardwareSerial uart(2); 

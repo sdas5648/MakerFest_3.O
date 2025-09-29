@@ -1,4 +1,5 @@
 //slave code start
+#include <Arduino.h>
 #include <Wire.h>
 #include <HardwareSerial.h>
 HardwareSerial uart(2); 
